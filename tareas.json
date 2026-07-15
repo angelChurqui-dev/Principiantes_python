@@ -1,0 +1,10 @@
+[
+    {
+        "titulo": "holas.txt",
+        "completada": true
+    },
+    {
+        "titulo": "hola.tct",
+        "completada": false
+    }
+]
